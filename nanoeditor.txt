@@ -1,0 +1,2 @@
+testing options in nano editor vs vi / vim
+how to w/q 
